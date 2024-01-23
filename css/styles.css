@@ -1,3 +1,4 @@
+
 *{
     font-family: 'Poppins', sans-serif;
 }
@@ -12,3 +13,28 @@
 .deck{
     text-decoration:none;
 }
+
+.general{
+    color: #8a4d76;  
+    text-align: center;
+}
+
+.content{
+    color: #4a4a4a;
+    text-align: center;
+    font-size: 17px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.col-md-4{
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+
+
